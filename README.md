@@ -10,3 +10,4 @@
 ## Others
 1. [MarkDown教程](https://nn.labml.ai/index.html)
 2. [Zetero中文社区](https://zotero-chinese.com/user-guide/)
+3. [Datawhale](https://www.datawhale.cn/home) AI学习资源
